@@ -35,7 +35,7 @@
 
 
 ## Known Bugs
-- _Error Code 134 when Dotnet Running._
+
 
 
 ## License
